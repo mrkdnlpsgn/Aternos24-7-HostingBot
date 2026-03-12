@@ -8,8 +8,7 @@
   "server": {
     "ip": "HailHiggers.aternos.me",
     "port": 38788,
-    "version": "",
-    "try-creative": false
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
